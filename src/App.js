@@ -9,8 +9,8 @@ class App extends Component {
     return (
       <div className="App">
         {/* <GithubUserInfo username="Elie"/> */}
-        {/* <Deck /> */}
-        <JokeList />
+        <Deck />
+        {/* <JokeList /> */}
       </div>
     );
   }
