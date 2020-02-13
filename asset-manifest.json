@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-randomPoker/static/css/main.72443859.chunk.css",
+    "main.js": "/react-randomPoker/static/js/main.5744cdf7.chunk.js",
+    "main.js.map": "/react-randomPoker/static/js/main.5744cdf7.chunk.js.map",
+    "runtime-main.js": "/react-randomPoker/static/js/runtime-main.f7957d32.js",
+    "runtime-main.js.map": "/react-randomPoker/static/js/runtime-main.f7957d32.js.map",
+    "static/js/2.b58f9ce5.chunk.js": "/react-randomPoker/static/js/2.b58f9ce5.chunk.js",
+    "static/js/2.b58f9ce5.chunk.js.map": "/react-randomPoker/static/js/2.b58f9ce5.chunk.js.map",
+    "index.html": "/react-randomPoker/index.html",
+    "precache-manifest.99cb49f010e2afe0076613198077eac3.js": "/react-randomPoker/precache-manifest.99cb49f010e2afe0076613198077eac3.js",
+    "service-worker.js": "/react-randomPoker/service-worker.js",
+    "static/css/main.72443859.chunk.css.map": "/react-randomPoker/static/css/main.72443859.chunk.css.map",
+    "static/js/2.b58f9ce5.chunk.js.LICENSE": "/react-randomPoker/static/js/2.b58f9ce5.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7957d32.js",
+    "static/js/2.b58f9ce5.chunk.js",
+    "static/css/main.72443859.chunk.css",
+    "static/js/main.5744cdf7.chunk.js"
+  ]
+}
