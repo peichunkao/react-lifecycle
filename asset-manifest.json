@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react_randomPokerCards/static/css/main.72443859.chunk.css",
-    "main.js": "/react_randomPokerCards/static/js/main.2cc5b036.chunk.js",
-    "main.js.map": "/react_randomPokerCards/static/js/main.2cc5b036.chunk.js.map",
-    "runtime-main.js": "/react_randomPokerCards/static/js/runtime-main.8284259c.js",
-    "runtime-main.js.map": "/react_randomPokerCards/static/js/runtime-main.8284259c.js.map",
-    "static/js/2.b58f9ce5.chunk.js": "/react_randomPokerCards/static/js/2.b58f9ce5.chunk.js",
-    "static/js/2.b58f9ce5.chunk.js.map": "/react_randomPokerCards/static/js/2.b58f9ce5.chunk.js.map",
-    "index.html": "/react_randomPokerCards/index.html",
-    "precache-manifest.b05acfe9400b509315cde77915db4f2c.js": "/react_randomPokerCards/precache-manifest.b05acfe9400b509315cde77915db4f2c.js",
-    "service-worker.js": "/react_randomPokerCards/service-worker.js",
-    "static/css/main.72443859.chunk.css.map": "/react_randomPokerCards/static/css/main.72443859.chunk.css.map",
-    "static/js/2.b58f9ce5.chunk.js.LICENSE": "/react_randomPokerCards/static/js/2.b58f9ce5.chunk.js.LICENSE"
+    "main.css": "/react-randomPokerCards/static/css/main.72443859.chunk.css",
+    "main.js": "/react-randomPokerCards/static/js/main.2c123c46.chunk.js",
+    "main.js.map": "/react-randomPokerCards/static/js/main.2c123c46.chunk.js.map",
+    "runtime-main.js": "/react-randomPokerCards/static/js/runtime-main.9310e49f.js",
+    "runtime-main.js.map": "/react-randomPokerCards/static/js/runtime-main.9310e49f.js.map",
+    "static/js/2.b58f9ce5.chunk.js": "/react-randomPokerCards/static/js/2.b58f9ce5.chunk.js",
+    "static/js/2.b58f9ce5.chunk.js.map": "/react-randomPokerCards/static/js/2.b58f9ce5.chunk.js.map",
+    "index.html": "/react-randomPokerCards/index.html",
+    "precache-manifest.5c21b0f3265ddd7ee861cdc1f7fdbf8b.js": "/react-randomPokerCards/precache-manifest.5c21b0f3265ddd7ee861cdc1f7fdbf8b.js",
+    "service-worker.js": "/react-randomPokerCards/service-worker.js",
+    "static/css/main.72443859.chunk.css.map": "/react-randomPokerCards/static/css/main.72443859.chunk.css.map",
+    "static/js/2.b58f9ce5.chunk.js.LICENSE": "/react-randomPokerCards/static/js/2.b58f9ce5.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.8284259c.js",
+    "static/js/runtime-main.9310e49f.js",
     "static/js/2.b58f9ce5.chunk.js",
     "static/css/main.72443859.chunk.css",
-    "static/js/main.2cc5b036.chunk.js"
+    "static/js/main.2c123c46.chunk.js"
   ]
 }
