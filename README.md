@@ -1,3 +1,13 @@
+## A react app that using Deck of Cards API to deal random porkers.
+Demo Link: [https://peichunkao.github.io/react-randomPokerCards/](https://peichunkao.github.io/react-randomPokerCards/)
+
+<p align="center">
+  <img width="300" src="https://github.com/peichunkao/react-randomPokerCards/blob/master/src/img/demo1.jpg">
+</p>
+<br/>
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
